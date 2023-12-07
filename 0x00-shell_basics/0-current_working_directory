@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /usr/0x00-shell_basicis
-pwd 
+cd /usr/0x00-shell_basics 
