@@ -1,3 +1,2 @@
 #!/bin/bash \n
-
-su betty \n
+chmod betty \n
