@@ -1,1 +1,2 @@
-chgrp #!/bin/bash \n
+#!/bin/bash
+groups
